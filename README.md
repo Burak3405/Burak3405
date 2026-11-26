@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b45a0,100:e0c48c&height=220&section=header&text=Hi%2C%20I'm%20Burak&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student&descSize=18&descAlignY=56" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:5c0f0f,100:e53935&height=220&section=header&text=Hi%2C%20I'm%20Burak&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student&descSize=18&descAlignY=56" width="100%" alt="header"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Burak3405&label=profile%20views&color=5b45a0&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Burak3405&label=profile%20views&color=B71C1C&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Burak3405?label=followers&style=flat-square&color=e0c48c&labelColor=161b22" alt="followers"/>
 </p>
 
@@ -82,7 +82,7 @@ Scrapes e-commerce sites and fires real-time Windows notifications when a produc
 
 ### 🧮 [Matrix Calculator](https://github.com/Burak3405/Python_matrix_calculator)
 CLI tool for dynamic matrix creation and linear-algebra computations.<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linear%20Algebra-5b45a0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linear%20Algebra-B71C1C?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -101,11 +101,11 @@ Command-line utility that encrypts and decrypts text data.<br/>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Burak3405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E0C48C&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github&include_all_commits=true&hide=stars,issues,contribs" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Burak3405&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E0C48C&icon_color=FF5252&text_color=C9D1D9&rank_icon=github&hide=stars,issues,contribs" alt="stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burak3405&layout=compact&hide_border=true&bg_color=0d1117&title_color=E0C48C&text_color=C9D1D9&langs_count=6" alt="top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Burak3405&hide_border=true&background=0D1117&ring=E0C48C&fire=A78BFA&currStreakLabel=E0C48C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Burak3405&hide_border=true&background=0D1117&ring=E0C48C&fire=E53935&currStreakLabel=E0C48C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="streak"/>
 </p>
 
 <!-- ============================== SNAKE ============================== -->
@@ -128,5 +128,5 @@ Command-line utility that encrypts and decrypts text data.<br/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c48c,50:5b45a0,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,55:5c0f0f,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 </p>
