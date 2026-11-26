@@ -23,10 +23,8 @@
 <tr>
 <td>
 
-- 💻 **Currently focusing on:** exploring new programming languages and coding methodologies
-- 📐 **Also interested in:** algorithm design and mathematics
-- 🌱 **Currently learning:** how to build solid software architectures
-- ⚡ **Fun fact:** when I'm not coding, I'm gaming, reading or exploring new places 🌍
+-  **Currently focusing on:** exploring new programming languages and coding methodologies
+-  **Also interested in:** algorithm design and mathematics
 
 </td>
 </tr>
